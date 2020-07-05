@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(318,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(319,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(323,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(324,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(326,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(327,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\work\Cpp\OpenGLSettings\OpenGLSettings\main.cpp(335,49): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  OpenGLSettings.vcxproj -> D:\work\Cpp\OpenGLSettings\x64\Debug\OpenGLSettings.exe
